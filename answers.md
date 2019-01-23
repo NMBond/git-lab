@@ -1,6 +1,8 @@
 Answer 1: git version 2.17.1
+
 Answer 2: user.name=NMBond
           user.email=nb581418@ohio.edu
+
 Answer 3: usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
@@ -43,3 +45,76 @@ collaborate (see also: git help workflows)
 'git help -a' and 'git help -g' list available subcommands and some
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.          
+Answer 4:On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        README.md
+        answers.md
+        package.json
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Answer 5:On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        answers.md
+        package.json
+
+Answer 6:  On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   README.md
+        new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        package.json
+
+Answer 7:            On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        package.json
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Answer 8: commit adab94dbf479b55b1922d5b00e51b9674bfe5d78 (HEAD -> master)
+Author: NMBond <nb581418@ohio.edu>
+Date:   Tue Jan 22 18:34:25 2019 -0500
+
+    Initial commit
+
+Answer 9: Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        package.json
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Answer 10: The local copy was not changed
+
+Answer 11:The push was rejected
+
+Answer 12: Yes the Changes were made on my local copy
+
+Answer 13:.  ..  .git  .gitignore  README.md
